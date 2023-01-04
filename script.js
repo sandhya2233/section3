@@ -5,7 +5,7 @@ myPanel.onmousemove = transformPanel;
 myPanel.onmouseenter = handleMouseEnter;
 myPanel.onmouseleave = handleMouseLeave;
 
-let mouseX, mouseY;
+
 
 let transformAmount = 5;
 
