@@ -1,4 +1,4 @@
-it is my simple program
+it is my simple programs
 <<<<<<< HEAD
 =======
 it is my second program
